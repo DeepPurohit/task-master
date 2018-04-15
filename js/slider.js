@@ -13,11 +13,6 @@ setInterval(function()
     }
 },2000);
 
-
-
-
-
-
 $("#slideshow > div:gt(0)").hide();
 
 setInterval(function() { 
